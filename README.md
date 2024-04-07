@@ -23,6 +23,3 @@ print(city_name + " " + pet_name)
 Run the code here on replit.com
 
 https://replit.com/@clintonhill11/CJ-Band-Name-Generator
-
-
-https://imgur.com/a/YoCw7uo
